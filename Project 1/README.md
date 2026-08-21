@@ -18,17 +18,17 @@ It includes practical programs designed to improve coding skills, logical thinki
 ### Core Concepts
 
  ####  Concept used  
- 1. Variables & Data Types 
- 2. Input & Output 
- 3. Operator 
- 4. type()
- 5. id()
+ -  Variables & Data Types
+ -  Input & Output
+ -  Operator
+ -  type()
+ -  id()
     
 #### Tools & editor
 
-1. Python 3
-2. Git
-3. GitHub
+ - Python 3
+ - Git
+ - GitHub
 
 #### Project File
 
