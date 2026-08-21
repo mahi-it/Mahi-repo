@@ -1,4 +1,4 @@
-# Pattern Generator and Number Analyzer
+# Project 2 - Pattern Generator and Number Analyzer
 
 ###  Introduction
 
