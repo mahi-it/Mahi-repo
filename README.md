@@ -1,26 +1,41 @@
-# Mahi's repo
-Welcome to my GitHub repository! 
 
-#### About This Repository
-This repository contains my projects .
+# project 1 - Fundamental Booster
 
-#### Technologies I'm Learning
-- C
-- C++
-- Python
-- HTML
-- CSS
-- SQL
+### Introduction
 
-#### What You'll Find Here
-- Programming practice
-- Data Structures and Algorithms
-- Mini projects
+Fundamental Booster is a Python project developed to practice and strengthen the essential concepts of programming.
 
-#### About Me
-I am an Information Technology student interested in programming and learning new technologies.
+It includes practical programs designed to improve coding skills, logical thinking, and understanding of Python fundamentals.
 
-#### Contact
-GitHub: mahi-it
+### Project Goals
 
-Thanks for visiting my repository!
+- Build a strong foundation in Python
+- Understand fundamental programming concepts
+- Develop logical problem-solving skills
+- Practice implementing concepts through code
+- Improve programming confidence
+
+## Core Concepts
+
+ #  Concept used  
+ 1. Variables & Data Types 
+ 2. Input & Output 
+ 3. Operator 
+ 4. type()
+ 5. id()
+    
+## Tools & editor
+
+1. Python 3
+2. Git
+3. GitHub
+
+## Project File
+
+Project 1/
+├── README.md
+└── fundamental_booster.py
+
+**Created by:** Mahi Patel
+
+
