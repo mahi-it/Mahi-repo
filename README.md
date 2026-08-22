@@ -25,14 +25,14 @@ It includes practical programs designed to improve coding skills, logical thinki
  -  id()
     
 #### Tools & editor
-
+ - vs code 
  - Python 3
  - Git
  - GitHub
 
-#### Project File
+#### Repository
 
-Project 1/
+mahi-it/Project-1
 |── README.md
 |── fundamental_booster.py
 
