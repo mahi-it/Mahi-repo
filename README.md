@@ -40,6 +40,5 @@ Project 1/
 
 Mahi Patel
 
-Part of my Python learning journey.
 
 
