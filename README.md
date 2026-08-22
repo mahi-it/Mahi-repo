@@ -1,5 +1,5 @@
 
-# Project 1 - Fundamental Booster
+# Project-1  Fundamental Booster
 
 ### Introduction
 
