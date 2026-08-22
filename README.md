@@ -30,7 +30,7 @@ It includes practical programs designed to improve coding skills, logical thinki
  - Git
  - GitHub
 
-#### Repository
+### Repository
 
 mahi-it/Project-1
 |── README.md
