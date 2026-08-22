@@ -33,9 +33,11 @@ The program continues running until the user selects the *Exit* option.
 ###  Project Structure
 
 project_2/
-│
 ├── project 2 Logic_Box.py
 |── README.md
 
+ #### Author
 
-*Created by:* Mahi Patel
+Mahi Patel
+
+Part of my Python learning journey.
