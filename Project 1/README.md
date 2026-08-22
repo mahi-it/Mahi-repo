@@ -36,7 +36,10 @@ Project 1/
 |── README.md
 |── fundamental_booster.py
 
+#### Author
 
-**Created by:** Mahi Patel
+Mahi Patel
+
+Part of my Python learning journey.
 
 
