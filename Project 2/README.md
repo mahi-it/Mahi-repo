@@ -32,7 +32,7 @@ The program continues running until the user selects the *Exit* option.
 
 ###  Project Structure
 
-project_2/
+project 2/
 ├── project 2 Logic_Box.py
 |── README.md
 
